@@ -16,7 +16,7 @@ gem 'acts_as_follower'
 gem 'devise', '~> 4.2'
 gem 'jwt', '~> 1.5.4'
 gem 'puma'
-gem 'rack-cors', '~> 0.4.0'
+gem 'rack-cors', '~> 1.0.5'
 
 # ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
