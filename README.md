@@ -1,4 +1,4 @@
-# SaySo Backend
+# SaySo Backend: Rails
 
 ## Overview
 
