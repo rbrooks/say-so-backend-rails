@@ -1,5 +1,9 @@
 # SaySo Backend: Rails
 
+## Routes
+
+![say-so-backend-rails-routes](https://user-images.githubusercontent.com/214047/83187386-14d61a80-a0fc-11ea-9579-82de52298bf2.png)
+
 ## Overview
 
 A functioning hobby project to bring my Ruby and Rails skills up to date. The is the Microservice half of a single-page blogging platform.
