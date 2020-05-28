@@ -38,16 +38,6 @@ This project has:
 
 Service must be running for the Frontend app to work. It makes an REST calls to it.
 
-## Tools
-
-* **MacOS**
-* **[VS Code](https://code.visualstudio.com/)**
-* **[Table Plus](https://tableplus.com/)**
-
-## Screenshots
-
-coming
-
 ## Libraries
 
 - [acts_as_follower](https://github.com/tcocca/acts_as_follower) - Adds Followers functionality
