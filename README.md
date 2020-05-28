@@ -30,9 +30,9 @@ This project has:
 
 - Clone this repo
 - `bundle install` - Install Dependencies
-- `rake schema:load` - Load the Schema. Although it should already by there. It's in the SQLite file.
-- `rake seed` - Not necessary.
-- `rails s` - Start the server
+- `bin/rake schema:load` - Load the Schema. Although it should already by there. It's in the SQLite file.
+- `bin/rake seed` - Not necessary.
+- `bin/rails s` - Start the server
 
 * Service should now be browseable at: http://localhost:3000/
 
